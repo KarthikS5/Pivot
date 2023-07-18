@@ -1,2 +1,2 @@
 # Pivot
-pivot_table
+writing queries rows into colomn
